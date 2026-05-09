@@ -1,0 +1,6 @@
+{
+  "name": "AgriScan",
+  "description": "An AI-powered agricultural analysis platform for crop health monitoring, disease detection, and field management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
